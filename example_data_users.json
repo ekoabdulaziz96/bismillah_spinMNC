@@ -1,0 +1,30 @@
+{
+  "_id": "0630dcc7-0d89-4596-8660-4225c3642d01",
+  "first_name": "Guntur update",
+  "last_name": "Saputro update",
+  "address": "Jl. Kebon sirih 01 update",
+  "phone_number": 811255501,
+  "pin": "e10adc3949ba59abbe56e057f20f883e",
+  "balance": 370000,
+  "created_date": {
+    "$date": "2021-04-07T22:04:54.567Z"
+  },
+  "updated_date": {
+    "$date": "2021-04-07T22:05:29.777Z"
+  }
+},
+{
+  "_id": "9238280f-0b89-4af2-83da-74d45afa467f",
+  "first_name": "Eko",
+  "last_name": "Abdul Aziz",
+  "address": "Lebak bulus",
+  "phone_number": 89666623887,
+  "pin": "e10adc3949ba59abbe56e057f20f883e",
+  "balance": 30000,
+  "created_date": {
+    "$date": "2021-04-07T22:04:59.054Z"
+  },
+  "updated_date": {
+    "$date": "2021-04-07T22:04:59.054Z"
+  }
+}

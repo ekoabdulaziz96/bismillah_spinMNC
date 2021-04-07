@@ -1,0 +1,43 @@
+{
+  "_id": "aee424ac-3d76-4d94-bb16-ce841f80e945",
+  "top_up_id": "c866d296-41e7-435f-b3d7-87d3e4dd9286",
+  "status": "SUCCESS",
+  "user_id": "0630dcc7-0d89-4596-8660-4225c3642d01",
+  "transaction_type": "CREDIT",
+  "amount": 500000,
+  "remarks": "",
+  "balance_before": 0,
+  "balance_after": 500000,
+  "created_date": {
+    "$date": "2021-04-07T22:05:35.205Z"
+  }
+},
+{
+  "_id": "9aed4b8a-dc59-4230-a940-07084861b475",
+  "payment_id": "b9f75e28-081c-486a-ab3e-9a8dc1dce6a2",
+  "status": "SUCCESS",
+  "user_id": "0630dcc7-0d89-4596-8660-4225c3642d01",
+  "transaction_type": "DEBIT",
+  "amount": 100000,
+  "remarks": "pulsa telkomsel 100k",
+  "balance_before": 500000,
+  "balance_after": 400000,
+  "created_date": {
+    "$date": "2021-04-07T22:05:41.055Z"
+  }
+},
+{
+  "_id": "344ed69d-4613-4def-ab63-1793652f7d14",
+  "transfer_id": "53f216e0-69dd-411d-89f2-0eafd62070a5",
+  "status": "SUCCESS",
+  "user_id": "0630dcc7-0d89-4596-8660-4225c3642d01",
+  "target_user": "9238280f-0b89-4af2-83da-74d45afa467f",
+  "transaction_type": "DEBIT",
+  "amount": 30000,
+  "remarks": "Hadial Ulang tahun",
+  "balance_before": 400000,
+  "balance_after": 370000,
+  "created_date": {
+    "$date": "2021-04-07T22:06:19.274Z"
+  }
+}
