@@ -50,4 +50,4 @@ struktur folder:
 -venv
 
 NB:
-- github public : https://github.com/ekoabdulaziz96/bismillah_kedaTech
+- github public : https://github.com/ekoabdulaziz96/bismillah_spinMNC
