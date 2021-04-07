@@ -35,6 +35,10 @@ Run Program :
             - tunggu sampai build image dan container selesai
             - buka link "http://localhost:8081/" di browser,
             -  masukkan username: admin pass: admin123 [bila gagal coba username: root pass: pass12345]
+
+            NB : untuk menghentikan mongoDB cukup eksekusi perintah dibawah dan di path yang sama ketika menjalankan
+                 "docker-compose -f docker-compose.yml down" , [up diganti down untuk menghentikan server, tanpa -d]
+
         - bila menggunakan mongoDB sendiri, maka ada setting tambahan pada file settings.py pada variabel uri
             patterd: "mongodb://[user]:[password]@[host]:[port]/?authSource=admin"
             contoh : "mongodb://root:pass12345@localhost:27017/?authSource=admin"
